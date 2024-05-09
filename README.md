@@ -1,1 +1,1 @@
-Fullscreen Scrolling - Hide the top bar when scrolling down
+Disable Tab Limit - Disables the default tab limit (varies between devices)
