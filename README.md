@@ -1,1 +1,1 @@
-Auto-Clear Browser Data hen Safari is Minimized or Closed
+Show Full Site URL - Always show the full URL in the top bar
