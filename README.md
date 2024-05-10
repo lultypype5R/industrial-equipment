@@ -1,1 +1,1 @@
-Always Open Links in New Tab (+ Option to always open in background)
+Change Browsing Mode on App Start, App Resume, and when an External Link is Opened
