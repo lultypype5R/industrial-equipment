@@ -1,1 +1,1 @@
-Disable Tab Limit - Disables the default tab limit (varies between devices)
+Change Browsing Mode on App Start, App Resume, and when an External Link is Opened
