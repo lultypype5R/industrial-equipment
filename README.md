@@ -1,1 +1,1 @@
-Custom User Agent - Change the user agent for both mobile and desktop mode
+Disable tab Swiping (Only available on iOS 12 and up)
