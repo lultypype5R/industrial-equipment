@@ -1,1 +1,1 @@
-Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
+Custom User Agent - Change the user agent for both mobile and desktop mode
