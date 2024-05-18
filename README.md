@@ -1,1 +1,1 @@
-Custom Start Site - Change the default favorites view when opening a new tab to a specified URL
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
