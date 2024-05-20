@@ -1,1 +1,1 @@
-Custom User Agent - Change the user agent for both mobile and desktop mode
+Insert Suggestion on Long Press - Insert a search suggestion into the URL bar by long pressing it
