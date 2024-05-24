@@ -1,1 +1,1 @@
-Custom Start Site - Change the default favorites view when opening a new tab to a specified URL
+Both Link Opening Options - Have both the Open in Background option and the Open in New Tab option available alongside each other
