@@ -1,1 +1,1 @@
-Change Browsing Mode on App Start, App Resume, and when an External Link is Opened
+Color Settings for the Top Toolbar, Bottom Toolbar and the Tab Switcher for both normal and private browsing modes
