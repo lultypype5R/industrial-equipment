@@ -1,1 +1,1 @@
-Auto Close Tabs when Safari is Minimized or Closed
+Fully Disable Private Browsing
