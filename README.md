@@ -1,1 +1,1 @@
-Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
+Change Browsing Mode on App Start, App Resume, and when an External Link is Opened
