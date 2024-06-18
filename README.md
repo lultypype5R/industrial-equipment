@@ -1,1 +1,1 @@
-Suppress Mailto Dialog (on iOS 10 and above)
+Toolbar Swipe Left, Right, and Up / Down Gestures
