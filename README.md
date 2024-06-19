@@ -1,1 +1,1 @@
-Toolbar Swipe Left, Right, and Up / Down Gestures
+Change the button order of the Top and Bottom Toolbars and add additional buttons
