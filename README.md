@@ -1,1 +1,1 @@
-Fully Disable Private Browsing
+Toolbar Swipe Left, Right, and Up / Down Gestures
