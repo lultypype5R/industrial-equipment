@@ -1,1 +1,1 @@
-URL Bar Swipe Left, Right, and Down Gestures
+Fullscreen Scrolling - Hide the top bar when scrolling down
