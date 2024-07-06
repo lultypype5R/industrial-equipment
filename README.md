@@ -1,1 +1,1 @@
-Show Full Site URL - Always show the full URL in the top bar
+Upload Any File - An additional option to the document sheet that can be used to upload any file on your root file system
